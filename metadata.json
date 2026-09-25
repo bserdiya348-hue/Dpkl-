@@ -1,0 +1,6 @@
+{
+  "name": "DPKL Kabaddi Auction",
+  "description": "Modern mobile-friendly Kabaddi Player Registration and Live Auction Management App for local tournaments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
